@@ -2,7 +2,7 @@
 
 ## Instalação
 ```bash
-npm install --save https://github.com/CarlosNeto2804/date-formatter-util.git
+npm install --save date-formatter-util
 ```
 ## Uso 
 ```js
